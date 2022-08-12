@@ -1,6 +1,8 @@
 body {
     text-align: center;
     background-color: #F0EABE;
+    background-image: url("./images/Untitled\ design.png");
+    background-size:cover;
 }
 
 .name {
